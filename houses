@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+
+<ul>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="news.asp">News</a></li>
+  <li><a href="https://www.redfin.com/">Redfin</a></li>
+ 
+</ul>
+
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title> TAB </title>
+</head>
+<body>
+<center>
+  <h1> noun topic: houses <h1
+  <h2> Houses are very expensive, especially in some places. </h2>
+ 
+<img src="https://imageio.forbes.com/specials-images/imageserve/1026205392/Beautiful-luxury-home-exterior-at-twilight/960x0.jpg?fit=bounds&format=jpg&width=960">
+
+<img src=https://static01.nyt.com/images/2020/10/04/realestate/04selling-LI/oakImage-1600449152054-superJumbo.jpg?quality=75&auto=webp>
+<ol>
+  <li>States with most expensive houses:</li>
+  <li>California</li>
+  <li>Hawaii</li>
+  <li>New York</li>
+</ol>
+  
+<table>
+  <tr>
+    <th>State</th>
+    <th>Average price of a home</th>
+
+  </tr>
+  <tr>
+    <td>California</td>
+    <td>$820,000</td>
+    
+    
+  </tr>
+  <tr>
+    <td>New York</td>
+    <td>$969,000</td>
+    
+  </tr>
+</table>
+
+A house for sale in San Diego: https://www.redfin.com/CA/San-Diego/10645-Mathieson-St-92129/home/4621847
+<img src= "https://ssl.cdn-redfin.com/photo/48/bigphoto/348/220001348_34_0.jpg">
+
+It's listed for $1,325,000 on redfin.
+Vs. a condo in San Diego: https://www.redfin.com/CA/San-Diego/1388-Kettner-Blvd-92101/unit-2902/home/170146522
+<img src= "https://ssl.cdn-redfin.com/system_files/media/651185_JPG/item_1.jpg" width = 1500>
+
+<style>
