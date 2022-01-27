@@ -2,8 +2,8 @@
 
 <ul>
   <li><a href="index.html">Home</a></li>
-  <li><a href="news.asp">News</a></li>
-  <li><a href="https://www.redfin.com/">Redfin</a></li>
+  <li><a href="news.asp">Project ?</a></li>
+  <li><a href="https://www.zillow.com/">Zillow</a></li>
  
 </ul>
 
@@ -46,7 +46,46 @@
     <td>$969,000</td>
     
   </tr>
+  <tr>
+    <td>Hawaii</td>
+    <td>$821,000</td>
+    
+  </tr>
 </table>
+
+However homes can also not be as expensive in some states.
+
+<ol>
+  <li>States with most expensive houses:</li>
+  <li>California</li>
+  <li>Hawaii</li>
+  <li>New York</li>
+</ol>
+  
+<table>
+  <tr>
+    <th>State</th>
+    <th>Average price of a home</th>
+
+  </tr>
+  <tr>
+    <td>Texas</td>
+    <td>$276,048</td>
+    
+    
+  </tr>
+  <tr>
+    <td>Kentucky</td>
+    <td>$180,000</td>
+    
+  </tr>
+  <tr>
+    <td>Ohio</td>
+    <td>$192,000</td>
+    
+  </tr>
+</table>
+
 
 A house for sale in San Diego: https://www.redfin.com/CA/San-Diego/10645-Mathieson-St-92129/home/4621847
 <img src= "https://ssl.cdn-redfin.com/photo/48/bigphoto/348/220001348_34_0.jpg">
@@ -54,6 +93,9 @@ A house for sale in San Diego: https://www.redfin.com/CA/San-Diego/10645-Mathies
 It's listed for $1,325,000 on redfin.
 Vs. a condo in San Diego: https://www.redfin.com/CA/San-Diego/1388-Kettner-Blvd-92101/unit-2902/home/170146522
 <img src= "https://ssl.cdn-redfin.com/system_files/media/651185_JPG/item_1.jpg" width = 1500>
+
+
+
 
 <style>
 h1 {
