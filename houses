@@ -56,3 +56,38 @@ Vs. a condo in San Diego: https://www.redfin.com/CA/San-Diego/1388-Kettner-Blvd-
 <img src= "https://ssl.cdn-redfin.com/system_files/media/651185_JPG/item_1.jpg" width = 1500>
 
 <style>
+h1 {
+ color: yellow;
+}
+
+body {
+  background-color: #001427;
+  color: #60AFFF;
+}
+img: hover{
+border: dotted 6x blue;
+width: 300 px;
+opacity: 1.0;}
+
+table, th, td {
+  border: 1px solid #2AF5FF;
+}
+
+ul a:hover{
+  list-style-type: circle;
+  margin: 0;
+  padding: 50;
+  width: 200px;
+  background-color: #F4D58D;
+}
+
+li a {
+  display: block;
+  color: blue;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+h1 {
+  text-shadow: 2px 2px red;
+}
+</style>
