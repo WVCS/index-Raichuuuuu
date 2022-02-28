@@ -1,0 +1,118 @@
+<div class="wrapper">
+<div class="A"><ul>
+<img src="https://www.linkpicture.com/q/Untitled-drawing-6_2.png" width=300px>
+  <li><a href="index.html">Home</a></li>
+  <li><a href="https://www.raisingcanes.com/our-philosophy">Our Philosophy</a></li>
+  <li><a href="https://www.raisingcanes.com">Our Second Website</a></li>
+
+ 
+</ul></div>
+  <div class="B">
+  
+<img src="https://www.linkpicture.com/q/Untitled_drawing_2_-1_1.png" width=500px>
+<img src="https://www.linkpicture.com/q/Untitled-drawing-4_2.png" type="image" width=550px>
+<img src="https://www.linkpicture.com/q/Untitled-drawing-5_2.png" type="image" width=750px>
+
+</div>
+
+  <div class="C">DO YOU WANT AFFORDABLE AND HIGH QUALITY CHICKEN? COME TO GAVIN'S CHICKEN SHOP
+</div>
+
+  <div class="D"> HOURS OF OPERATION:
+
+<table>
+  <tr>
+    <th>Day</th>
+    <th>Open and closing times</th>
+
+  </tr>
+  <tr>
+    <td>Monday-Wednesday</td>
+    <td>8AM-10PM</td>
+    
+    
+  </tr>
+  <tr>
+    <td>Thursday</td>
+    <td>6AM-9PM</td>
+    
+  </tr>
+  <tr>
+    <td>Friday-Sunday</td>
+    <td>8AM-7AM</td>
+    
+  </tr>
+</table>
+</div>
+
+ <center> <div class="P"> <img src="https://www.linkpicture.com/q/Untitled_drawing_3_-removebg-preview.png" type="image" width=1000px></a> 
+ </div>
+
+<style>
+ul a:hover{
+  list-style-type: circle;
+  margin: 0;
+  padding: 50;
+  width: 200px;
+  background-color: #F4D58D;
+}
+
+li a {
+  display: block;
+  color: blue;
+  padding: 8px 16px;
+  text-decoration: none;
+}
+h1 {
+  text-shadow: 2px 2px red;
+}
+
+table, th, td {
+  border: 1px solid black;
+}
+
+.wrapper {
+  display: grid;
+  height: 90vh;
+  grid-template: 
+      "A B C" auto
+      "D E F"
+      "G H I";
+    grid-template-columns: 10% 70% 10%; 
+  grid-row-gap: 5px;
+  grid-column-gap: 5%;
+}
+div {
+  background-color: #841C26;
+  border: dashed 1px black;
+  border-radius: 1px;
+}
+
+.A {
+  grid-column: 1 / 4;
+}
+
+.B {
+  grid-column: 1 / 4;
+}
+
+.E {
+  grid-row-start: 3;
+  grid-column-start: 3;
+  grid-row-end: 5;
+  grid-column-end: 3;
+}
+
+.G {
+  grid-row: 3 / 5;
+}
+
+.C {
+  grid-area: 2 / 2 / 5 / 2;
+   font-size: 40px;
+}  /* row line / column line / end row / end column */
+
+body {
+  background-color: #ACFCD9;
+  color: #ECC30B;
+</style>
